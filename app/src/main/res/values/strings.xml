@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PictureCut</string>
+    <string name="select_picture">选择图片</string>
+    <string name="save">保存</string>
+</resources>
